@@ -1,6 +1,7 @@
 // Copyright 2021 GHA Test Team
 #include <gtest/gtest.h>
 #include "task.h"
+
 TEST(TEST1, servedCustomers) {
 
   int cashRegisterAmount = 2;
